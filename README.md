@@ -109,10 +109,4 @@ Using JSONSchema, it is possible to force compliance with this practice, by disa
 
 ## Initial Development and Main Sponsor
 
-Wind Pioneers Ltd sponsored the initial work to develop this schema, then evolve in production systems to work with dozens of turbines spanning more than eight manufacturers.
-
-![WindPioneers Logo](https://github.com/octue/power-curve-schema/assets/7223170/ca590fa3-2a84-495f-ab9a-a364b02b8a01)
-
-Wind Pioneers has open-sourced the schema (see `LICENSE`) for further refinement by the wider community, and expansion for purposes beyond Site Design and Energy Yield Assessment.
-
-[The initial work is described here (DOI 10.5281/zenodo.7940068)](https://doi.org/10.5281/zenodo.7940068).
+Prior to work commencing the draft of the -16 standard, Octue Ltd and Wind Pioneers Ltd sponsored the initial work to develop the schema on which this work is based. [The initial work is described here (DOI 10.5281/zenodo.7940068)](https://doi.org/10.5281/zenodo.7940068).
